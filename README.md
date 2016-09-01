@@ -10,13 +10,14 @@ net-speeder工具的原理：主要通过TCP双线发包的方式，可以解决
 wget http://www.banwagong.me/tools/centos_net-speeder.sh
 
 ![alt tag](https://github.com/jhx314/net-speeder-shadowsocks/blob/master/001.png)
+
 第二步:安装
 
 sh centos_net-speeder.sh
 
 ![alt tag](https://github.com/jhx314/net-speeder-shadowsocks/blob/master/002.png)
 
-结果
+安装结果
 
 ![alt tag](https://github.com/jhx314/net-speeder-shadowsocks/blob/master/003.png)
 
