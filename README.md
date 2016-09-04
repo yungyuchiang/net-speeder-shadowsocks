@@ -25,8 +25,8 @@ sh centos_net-speeder.sh
 
 nohup /usr/local/net_speeder/net_speeder venet0 "ip" >/dev/null 2>&1 &
 
+![alt tag](https://github.com/jhx314/net-speeder-shadowsocks/blob/master/004.png)
+
 第四步：开机启动:
 
 echo 'nohup /usr/bin/net_speeder venet0 "ip" >/dev/null 2>&1 &' >> /etc/rc.local
-![alt tag](https://github.com/jhx314/net-speeder-shadowsocks/blob/master/004.png)
-
